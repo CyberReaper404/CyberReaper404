@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 
 - Software Engineer with experience in **C#/.NET**, **React/Angular**, and **AWS**
-- Based in Campo Grande, MS 🌎
+- Based in Campo Grande, MS, Brazil 🌎
 
 ---
 
